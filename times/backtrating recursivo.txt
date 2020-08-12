@@ -1,0 +1,81 @@
+time          sumaConjunto
+0,000 seconds           2
+
+0,000 seconds           3
+
+0,000 seconds           4
+
+0,000 seconds           5
+
+0,000 seconds           6
+
+0,000 seconds           7
+
+0,000 seconds           8
+
+0,000 seconds           9
+
+0,000 seconds           10
+
+0,000 seconds           11
+
+0,001 seconds           12
+
+0,000 seconds           13
+
+0,000 seconds           14
+
+0,000 seconds           15
+
+0,000 seconds           16
+
+0,000 seconds           17
+
+0,000 seconds           18
+
+0,001 seconds           19
+
+0,000 seconds           20
+
+0,001 seconds           21
+
+0,000 seconds           22
+
+0,001 seconds           23
+
+0,002 seconds           24
+
+0,003 seconds           25
+
+0,003 seconds           26
+
+0,008 seconds           27
+
+0,019 seconds           28
+
+0,037 seconds           29
+
+0,072 seconds           30
+
+0,139 seconds           31
+
+0,172 seconds           32
+
+0,381 seconds           33
+
+0,435 seconds           34
+
+0,882 seconds           35
+
+1,740 seconds           36
+
+3,443 seconds           37
+
+6,089 seconds           38
+
+14,037 seconds           39
+
+28,917 seconds           40
+
+62,457 seconds           41
+

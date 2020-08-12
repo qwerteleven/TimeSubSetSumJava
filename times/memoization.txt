@@ -1,0 +1,99 @@
+time          sumaConjunto
+0,001 seconds           11
+
+0,008 seconds           21
+
+0,033 seconds           31
+
+0,065 seconds           41
+
+0,062 seconds           51
+
+0,109 seconds           61
+
+0,173 seconds           71
+
+0,222 seconds           81
+
+0,524 seconds           91
+
+0,421 seconds           101
+
+0,512 seconds           111
+
+0,571 seconds           121
+
+0,778 seconds           131
+
+0,867 seconds           141
+
+0,922 seconds           151
+
+1,035 seconds           161
+
+1,316 seconds           171
+
+1,566 seconds           181
+
+1,702 seconds           191
+
+1,902 seconds           201
+
+2,080 seconds           211
+
+2,173 seconds           221
+
+2,659 seconds           231
+
+2,932 seconds           241
+
+3,099 seconds           251
+
+4,172 seconds           261
+
+3,540 seconds           271
+
+4,222 seconds           281
+
+5,637 seconds           291
+
+4,632 seconds           301
+
+5,066 seconds           311
+
+5,810 seconds           321
+
+6,720 seconds           331
+
+8,122 seconds           341
+
+7,035 seconds           351
+
+8,339 seconds           361
+
+12,117 seconds           371
+
+11,348 seconds           381
+
+11,939 seconds           391
+
+12,233 seconds           401
+
+12,561 seconds           411
+
+12,926 seconds           421
+
+13,852 seconds           431
+
+14,917 seconds           441
+
+15,411 seconds           451
+
+15,032 seconds           461
+
+15,142 seconds           471
+
+17,320 seconds           481
+
+24,408 seconds           491
+

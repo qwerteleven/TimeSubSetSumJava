@@ -1,0 +1,217 @@
+time          sumaConjunto
+0,000 seconds           2
+
+0,000 seconds           3
+
+0,000 seconds           4
+
+0,000 seconds           5
+
+0,000 seconds           6
+
+0,000 seconds           7
+
+0,000 seconds           8
+
+0,000 seconds           9
+
+0,000 seconds           10
+
+0,000 seconds           11
+
+0,000 seconds           12
+
+0,000 seconds           13
+
+0,000 seconds           14
+
+0,001 seconds           15
+
+0,000 seconds           16
+
+0,001 seconds           17
+
+0,000 seconds           18
+
+0,000 seconds           19
+
+0,001 seconds           20
+
+0,000 seconds           21
+
+0,001 seconds           22
+
+0,001 seconds           23
+
+0,000 seconds           24
+
+0,000 seconds           25
+
+0,001 seconds           26
+
+0,000 seconds           27
+
+0,000 seconds           28
+
+0,002 seconds           29
+
+0,000 seconds           30
+
+0,001 seconds           31
+
+0,000 seconds           32
+
+0,002 seconds           33
+
+0,000 seconds           34
+
+0,001 seconds           35
+
+0,000 seconds           36
+
+0,000 seconds           37
+
+0,001 seconds           38
+
+0,001 seconds           39
+
+0,001 seconds           40
+
+0,000 seconds           41
+
+0,001 seconds           42
+
+0,003 seconds           43
+
+0,005 seconds           44
+
+0,005 seconds           45
+
+0,004 seconds           46
+
+0,002 seconds           47
+
+0,005 seconds           48
+
+0,004 seconds           49
+
+0,003 seconds           50
+
+0,001 seconds           51
+
+0,001 seconds           52
+
+0,006 seconds           53
+
+0,006 seconds           54
+
+0,007 seconds           55
+
+0,005 seconds           56
+
+0,012 seconds           57
+
+0,032 seconds           58
+
+0,018 seconds           59
+
+0,009 seconds           60
+
+0,017 seconds           61
+
+0,016 seconds           62
+
+0,039 seconds           63
+
+0,024 seconds           64
+
+0,016 seconds           65
+
+0,056 seconds           66
+
+0,059 seconds           67
+
+0,070 seconds           68
+
+0,080 seconds           69
+
+0,149 seconds           70
+
+0,192 seconds           71
+
+0,258 seconds           72
+
+0,278 seconds           73
+
+0,378 seconds           74
+
+0,307 seconds           75
+
+0,689 seconds           76
+
+1,048 seconds           77
+
+1,071 seconds           78
+
+0,661 seconds           79
+
+0,590 seconds           80
+
+1,303 seconds           81
+
+1,153 seconds           82
+
+1,157 seconds           83
+
+1,437 seconds           84
+
+1,137 seconds           85
+
+1,329 seconds           86
+
+1,374 seconds           87
+
+1,269 seconds           88
+
+2,773 seconds           89
+
+2,134 seconds           90
+
+1,259 seconds           91
+
+4,456 seconds           92
+
+2,775 seconds           93
+
+2,884 seconds           94
+
+7,358 seconds           95
+
+8,803 seconds           96
+
+8,679 seconds           97
+
+7,380 seconds           98
+
+19,665 seconds           99
+
+19,868 seconds           100
+
+32,805 seconds           101
+
+32,860 seconds           102
+
+36,387 seconds           103
+
+44,054 seconds           104
+
+32,462 seconds           105
+
+35,617 seconds           106
+
+45,178 seconds           107
+
+33,354 seconds           108
+
+121,055 seconds           109
+

@@ -1,0 +1,45 @@
+time          longitudVector
+0,000 seconds           6
+
+0,002 seconds           11
+
+0,001 seconds           16
+
+0,000 seconds           21
+
+0,001 seconds           26
+
+0,001 seconds           31
+
+0,002 seconds           36
+
+0,000 seconds           41
+
+0,004 seconds           46
+
+0,001 seconds           51
+
+0,003 seconds           56
+
+0,009 seconds           61
+
+0,031 seconds           66
+
+0,107 seconds           71
+
+0,394 seconds           76
+
+0,723 seconds           81
+
+0,730 seconds           86
+
+0,691 seconds           91
+
+4,813 seconds           96
+
+18,216 seconds           101
+
+19,455 seconds           106
+
+70,123 seconds           111
+
